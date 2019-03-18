@@ -1,2 +1,6 @@
 /bin
 /obj
+111.txt
+2222.txt
+*.txt
+~$*.docx
